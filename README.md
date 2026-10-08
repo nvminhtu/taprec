@@ -9,6 +9,10 @@ Free · no account · no ads · your videos never leave your phone</p>
   <a href="https://github.com/nvminhtu/taprec/releases/latest/download/TapRec-android.apk"><b>⬇ Download for Android (APK, 4.9 MB)</b></a>
 </p>
 
+<p align="center">
+  <a href="https://ko-fi.com/icecraftdigital"><img src="https://img.shields.io/badge/Ko--fi-Support%20TapRec-FF5E5B?logo=ko-fi&logoColor=white" alt="Support TapRec on Ko-fi"></a>
+</p>
+
 <p align="center"><img src="docs/qr.png" width="200" alt="QR code: scan with your Android phone to download TapRec"><br>
 <sub>Scan with your phone's camera to download</sub></p>
 
@@ -52,6 +56,16 @@ phone and leave it only when you share them yourself.
 | Microphone | to record sound (also needed for the phone's own sound) |
 | Notifications | recording controls |
 | Display over other apps | only if you turn on the floating button |
+
+## Support TapRec
+
+TapRec is free, with no ads and no paid version. If it saved you time, you can help keep it going:
+
+- [☕ Buy me a coffee on Ko-fi](https://ko-fi.com/icecraftdigital): one-time, no account needed.
+- ⭐ Star this repo, or share TapRec with a friend who needs a screen recorder.
+- Found a bug or want a feature? [Open an issue](https://github.com/nvminhtu/taprec/issues).
+
+More free apps from the same developer: [OneClickTool](https://oneclicktool.app/?utm_source=github&utm_medium=readme&utm_campaign=taprec).
 
 ## Versions
 
